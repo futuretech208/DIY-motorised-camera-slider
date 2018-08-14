@@ -1,7 +1,7 @@
 //Code written by Sumukh Anil Purohit
 //Licenced under GNU GPL v2
 //
-//Arduino Based telescope single axis tracker
+//Arduino Based DIY motorised slider controller
 
 
 // Defines pins numbers
